@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "abarciauskas-bgse.github.io/datafortheclimate/"
 languageCode = "en-us"
 title = "Data for the Climate"
 theme = "anatole"
