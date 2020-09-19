@@ -12,11 +12,9 @@ author = "Aimee Barciauskas"
 description = "Exploring data and technology in search of answers to climate questions."
 profilePicture = "images/profile.jpg"
 keywords = ""
-favicon = "favicons/"
 customCss = []
 customJs = []
-mainSections = ["post"]
-images = ["images/site-feature-image.png"]
+mainSections = ["posts"]
 
 ## Math settings
 [params.math]
@@ -63,10 +61,4 @@ url = "mailto:barciaai@gmail.com"
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+  url = "/posts/"
