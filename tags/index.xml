@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Data for the Climate</title>
-    <link>abarciauskas-bgse.github.io/datafortheclimate/tags/</link>
+    <link>https://abarciauskas-bgse.github.io/datafortheclimate/tags/</link>
     <description>Recent content in Tags on Data for the Climate</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="abarciauskas-bgse.github.io/datafortheclimate/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://abarciauskas-bgse.github.io/datafortheclimate/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
