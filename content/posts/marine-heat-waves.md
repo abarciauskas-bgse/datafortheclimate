@@ -32,4 +32,4 @@ sst_timeseries = ds_sst['analysed_sst'].sel(time = slice('2002-06-01','2020-01-0
 sst_timeseries.plot()
 ```
 
-![/images/mursst-timeseries.png](/images/mursst-timeseries.png)
+![MUR SST Timeseries Plot](/datafortheclimate/images/mursst-timeseries.png)
