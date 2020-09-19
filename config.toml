@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Data for the Climate"
+theme = "anatole"
+
+[params]
+title = "Data for the Climate"
+author = "Aimee Barciauskas"
+description = "Exploring data and technology in search of answers to climate questions."
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
